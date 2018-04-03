@@ -1,0 +1,4 @@
+<resources>
+    <string name="Person">Профиль</string>
+    <string name="Users">Пользователи</string>
+</resources>
